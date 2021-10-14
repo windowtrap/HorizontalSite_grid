@@ -69,9 +69,9 @@ padding: 20px;
   grid-row-end: 2;
 }
 #cell2{
-  background-color: hsl(0, 0%, 90%);
-  grid-column-start: 3;
-  grid-column-end: 5;
+  background-color: hsl(0, 0%, 10%);
+  grid-column-start: 2;
+  grid-column-end: 3;
   grid-row-start: 1;
   grid-row-end: 2;
 }
