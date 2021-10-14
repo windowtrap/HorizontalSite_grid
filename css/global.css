@@ -69,7 +69,7 @@ padding: 20px;
   grid-row-end: 2;
 }
 #cell2{
-  background-color: hsl(0, 80%, 10%);
+  background-color: hsl(0, 0%, 95%);
   grid-column-start: 3;
   grid-column-end: 5;
   grid-row-start: 1;
@@ -152,3 +152,9 @@ padding: 20px;
   grid-row-start: 4;
   grid-row-end: 5;
 }
+#cell13{
+  ackground-color: hsl(0, 0%, 5%);
+  grid-column-start: 6;
+  grid-column-end: 7;
+  grid-row-start: 4;
+  grid-row-end: 5;    
