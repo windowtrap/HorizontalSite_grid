@@ -3,7 +3,7 @@ body {
 }
 .header{
   height: 50px;
-  width: 5000px;
+  width: 10000px;
   background-color: hsl(0, 0%, 20%);
 }
 li {
