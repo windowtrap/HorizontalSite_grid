@@ -34,7 +34,7 @@ ul {
 }
 
 .container{
-  width:2000px;
+  width:5000px;
   height:2000px;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
