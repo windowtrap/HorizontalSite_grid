@@ -335,7 +335,7 @@ padding: 20px;
   grid-row-end: 5;
 }
 #cell40{
-  background-color: hsl(0, 0%, 95%);
+  background-color: hsl(0, 0%, 0%);
   grid-column-start: 10;
   grid-column-end: 11;
   grid-row-start: 4;
